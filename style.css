@@ -1,5 +1,9 @@
 /* style.css */
 
+body {
+    background-color: rgb(200, 183, 207);
+}
+
 #heading {
     color: rgb(109, 172, 197);
     text-align: center;
