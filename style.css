@@ -4,18 +4,18 @@ body {
     background-color: rgb(200, 183, 207);
 }
 
-.heading
-.items {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.index-heading,
+.index-items {
+    font-family: 'Lucida Console', 'Monaco', 'Courier New'
 }
 
-.heading {
+.index-heading {
     color: rgb(109, 172, 197);
     text-align: center;
     font-size: 40px;
 }
 
-.items {
+.index-items {
     color: palevioletred;
     font-size: larger;
 }
