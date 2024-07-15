@@ -2,10 +2,6 @@
 
 body {
     background-color: rgb(200, 183, 207);
-}
-
-.index-heading,
-.index-items {
     font-family: 'Lucida Console', 'Monaco', 'Courier New'
 }
 
@@ -16,9 +12,16 @@ body {
     font-size: 40px;
 }
 
-.index-items {
+.index-items,
+.page1-items,
+p {
+    color: rgb(165, 88, 114);
+    font-size: 20px;
+}
+
+h2 {
     color: palevioletred;
-    font-size: larger;
+    font-size: 30px;
 }
 
 #strawberry {
